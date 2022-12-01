@@ -1,0 +1,7 @@
+INDEX VERSION 1.4+Z:\Advanced Java Final Project\Online_bookstore\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+3685254733.index
+506589187.index
+1571431228.index
+2031013589.index
+670613611.index
+1560910742.index

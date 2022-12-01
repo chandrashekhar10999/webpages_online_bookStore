@@ -1,0 +1,7 @@
+INDEX VERSION 1.131+Z:\Advanced Java Final Project\Online_bookstore\.metadata\.plugins\org.eclipse.jdt.core
+1061301661.index
+3905966828.index
+2031013589.index
+467430902.index
+1865797976.index
+460224259.index
